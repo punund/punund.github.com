@@ -1,9 +1,9 @@
 ---
 layout: page
-title: bank account
+title: Bank account
 ---
 
-### how to send me money
+### How to send me money
 
 
 ```

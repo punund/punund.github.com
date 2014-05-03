@@ -1,6 +1,6 @@
 ---
 layout: page
-title: page 200
+title: Page 200
 ---
 
 ### Page found!
