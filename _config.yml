@@ -1,0 +1,24 @@
+# Dependencies
+markdown:         redcarpet
+markdown_ext:     md
+pygments:         true
+
+# Permalinks
+permalink:        pretty
+
+# Setup
+title:           ike 
+tagline:         'You must be here with purpose'
+description:     'Pieces of information that Iļja Ketris shares with the world.'
+url:              http://punund.github.io
+
+author:
+  name:           'Iļja Ketris'
+  url:            https://github.com/punund
+
+paginate:         5
+
+# Custom vars
+version:          2.0.0
+
+github:
