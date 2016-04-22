@@ -13,5 +13,5 @@ IBAN: LV44HABA000130A208054
 
 #### Bitcoins
 ```
-1<span color=green>fjord</span>DEBs1j1KguyFbTbbhbjBEw96tnP
+1fjordDEBs1j1KguyFbTbbhbjBEw96tnP
 ```
