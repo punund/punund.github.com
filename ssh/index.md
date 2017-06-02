@@ -1,16 +1,52 @@
 ---
 layout: page
-title: SSH key
+title: Public keys
 ---
 
-### Iļja Ketris' public ssh keys
+### Iļja Ketris' public cryptographic keys
 
 
+#### RSA ssh key
 ```
 ssh-rsa AAAAB3NzaC1yc2EAAAABIwAAAIEAwdiaeHFSyRKYekIyXiR5JLe+8isjwjCi0LZg1LGOLAPaNoXkHDeoql5Kh//ybmObiX4Aap8nzWBwGWuyP0hf/V8L+2Qmc7E/KDm+IBbhxnm/lSjJEI1eyjgMx3i1D91nYbvJFx6QBn6Gl/R8QNwT+GN3xIT1nQ5pSTK+HrQPv4k= ike@shim
 ```
 
+#### Ed25519 ssh key
 ```
 ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIFkml5dZE23SkTekmwE4E/ubcj1FaUcra8uLsEXHO+nj ike@shyf
 ```
 
+#### PGP key
+<font size="smaller">
+```
+-----BEGIN PGP PUBLIC KEY BLOCK-----
+Version: GnuPG v1
+
+mQENBFcrDbYBCADi2ZoX1vH7cMYTn8pG2arRZtikoiRhp4pBw/Wy6BV/MEw9Efe0
+wdDLU7ibahkubwCH51+1eeg5DoJNkNSdkklHqos3ZtcU45+vaIr3B9pWeBFBwTWh
++cm0bHv3CG9HVOZ73kQvgEc6StTtbnicjyugLnI7dbrp0thPpGGIa9VvVbPMXo3s
+20A3HxpYtXxgsDBGjqhs9WxcZ8fSA5KR8KdmvgGx/hdEPHUY3V7XmkwIn9TWtg++
+CxsKQMoPRz10eZ4XVHDSWNuukN3jnlobpNFcgohbjvIbBtfIl1T6l+OlPhmdXr5o
+DAG/5sU1WIsie+iQNgXQUD0KaawyoskzYRCxABEBAAG0G0nEvGphIEtldHJpcyA8
+aWtlQHZvLmlkLmx2PokBPgQTAQIAKAUCVysNtgIbAwUJEswDAAYLCQgHAwIGFQgC
+CQoLBBYCAwECHgECF4AACgkQMWUVNEhDg8Hyggf+OvFXsgpt0npQq+BzRPtlTSvU
+MmQuAWlNyDPl7ENLaXULu0gn7Vc5PhKmoBOF3FTdZ0dGXvqrvudM4p7OUBQCwS5m
+b0rtFf2NHg8loph/RPC+N2PULT1oIdpqoGBmAfP6IznxhvSv8pjC5aBbjlL9rREn
+Wof3PBYYcE+6Z/B55A7MP/cLJ/DTZp5kXT/UwKm3RdtKr8TSeYX/huY8DmajssxH
+L1MlnThE39O4sgHrabFxcnwyxlkMtiHTszEGG7gexE3DfqvOMMv8SI19xFtBgLKC
+lvibEduZ1f+1bvtuMI+yVYTjcKx0EE3xSpbjqIvaVd7HfqOPJ1Vr9YY9f3JgCLkB
+DQRXKw22AQgA7JwDnKI/Qcd+90hc2YFOUvpWulCR8Ggyh+1GVrMD4BxVKMRpCZzz
+6x0nEg9T6CnlHfFl8eqBvPe0mwmKHagWW/WGVbg1It3cDSf3Dn5Gc2ZBe3k1ak9t
+NOaoIstU7RjcZqAlqQR46xqNd+W01z1LUre184iO0Yjx1H/Z6IoRNAwRnWlng6CR
+TRJRqUlM2TDGMz5Dw9anr/MNDstXl5AW30w/nBlb7fy03wdSQn8f7KeFWgopLxww
+U3sFSOItlSb1AbhypbnLn/9rvJh/kn5tl/84SD5BV8zsj4sxxAKfz1gNxCoqeiwI
+A1Z8yiNyzPI17oPG0djuNDvQ5pQ6JVFX4wARAQABiQElBBgBAgAPBQJXKw22AhsM
+BQkSzAMAAAoJEDFlFTRIQ4PBlskH+wevIZsAVaZKuS0//r4Qc7E0GrBtokT9sAGm
+jUhLDlXbR6e80rrI7xOn1c+AzMH6BwASHWZI0aW0WV1doqKF/9YgDwa2tB8rAEjK
+llDLFPjHLujJEjao1O1e9BDAAIKR9XluVVew1qfXfJMSmVCWI4u+m1P/cFmziBmU
+UfVrNQvGJG1wfYkTcUyZTF+JWhRAgrp08RcOijARO93aSOtulKgzZ8/d/O1zstzn
+JoxHZJc0gndCS6jQqb1SBowzYctrsTOFobjK2AuVk1CYoQ/Zbamn8iJ9zMOrel4k
+PFpomRhnRVdNp3q3UEdT4nzaxfcnSYVR4L1UhQGw4PKFop4wfGc=
+=JMC2
+-----END PGP PUBLIC KEY BLOCK-----
+</font>
