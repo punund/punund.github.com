@@ -1,6 +1,7 @@
 # Dependencies
 markdown_ext:     md
-pygments:         true
+# pygments:         true
+highlighter:     rougue
 
 # Permalinks
 permalink:        pretty
