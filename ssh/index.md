@@ -17,7 +17,6 @@ ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIFkml5dZE23SkTekmwE4E/ubcj1FaUcra8uLsEXHO+nj
 ```
 
 #### PGP key
-<font size="smaller">
 ```
 -----BEGIN PGP PUBLIC KEY BLOCK-----
 Version: GnuPG v1
@@ -50,6 +49,5 @@ PFpomRhnRVdNp3q3UEdT4nzaxfcnSYVR4L1UhQGw4PKFop4wfGc=
 =JMC2
 -----END PGP PUBLIC KEY BLOCK-----
 ```
-</font>
 
-Last modified: 2017-06-03T05:09:06Z
+Last modified: 2017-06-03T05:10:27Z
