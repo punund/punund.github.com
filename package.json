@@ -1,0 +1,20 @@
+{
+  "name": "punund.github.com",
+  "version": "1.0.0",
+  "description": "Hyde is a brazen two-column [Jekyll](http://jekyllrb.com) theme that pairs a prominent sidebar with uncomplicated content. It's based on [Poole](http://getpoole.com), the Jekyll butler.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/punund/punund.github.com.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/punund/punund.github.com/issues"
+  },
+  "homepage": "https://github.com/punund/punund.github.com#readme"
+}
